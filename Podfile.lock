@@ -1,0 +1,16 @@
+PODS:
+  - iRate (1.8.3)
+  - Lookback (0.4.12)
+  - TestFlightSDK (2.1.1-beta)
+
+DEPENDENCIES:
+  - iRate
+  - Lookback
+  - TestFlightSDK
+
+SPEC CHECKSUMS:
+  iRate: 9ce199da423219ff4ada4565b9fcb2340c8c82bc
+  Lookback: e08fc691fb4526b413fffe39fe663391ff57c0ac
+  TestFlightSDK: dea28c16f0bf65c49c4ed8939b2ae0b0ed9bf8b0
+
+COCOAPODS: 0.28.0
