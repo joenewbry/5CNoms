@@ -1,16 +1,16 @@
 PODS:
-  - iRate (1.8.3)
-  - Lookback (0.4.12)
-  - TestFlightSDK (2.1.1-beta)
+  - Facebook-iOS-SDK (3.10.0)
+  - Lookback (0.4.15)
+  - Parse-iOS-SDK (1.2.16):
+    - Facebook-iOS-SDK (~> 3.7)
 
 DEPENDENCIES:
-  - iRate
   - Lookback
-  - TestFlightSDK
+  - Parse-iOS-SDK
 
 SPEC CHECKSUMS:
-  iRate: 9ce199da423219ff4ada4565b9fcb2340c8c82bc
-  Lookback: e08fc691fb4526b413fffe39fe663391ff57c0ac
-  TestFlightSDK: dea28c16f0bf65c49c4ed8939b2ae0b0ed9bf8b0
+  Facebook-iOS-SDK: ef402579aeb30cf0c4a6370fb0a927e3dc3059e5
+  Lookback: 28a0ac02f984ff32c65c8715caa767d835b84359
+  Parse-iOS-SDK: 604907fddc0e299a1b9d79c1c04377d34662dfcd
 
 COCOAPODS: 0.28.0
